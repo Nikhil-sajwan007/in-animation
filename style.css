@@ -30,7 +30,7 @@ body {
 .slide-left {
     transform: translateX(-900px);
     opacity: 0;
-    transition: transform 1s ease-out, opacity 1s ease-out;
+    transition: transform 2s ease-out, opacity 1s ease-out;
 }
 
 /* Slide-left When Active */
