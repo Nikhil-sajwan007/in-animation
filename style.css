@@ -16,9 +16,10 @@ body {
 
 /* Image Container */
 .image-container {
-    width: 100%;
+    width: 1362px;
     height: 300px;
     overflow: hidden;
+    margin: 0 auto;
 }
 
 .image-container img{
